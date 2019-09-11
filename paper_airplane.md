@@ -1,5 +1,5 @@
 These are instructions to make a paper airplane.
-This paper airplane will not look nice.
+#This paper airplane will not look nice.
 But it is still a paper airplane.
 Place an 8.5" x 11" piece of paper in front of you in the portrait orientation.
 Fold the paper in half by folding the right side of the paper on top of the left side.
